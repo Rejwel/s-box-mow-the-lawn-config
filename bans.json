@@ -1,5 +1,25 @@
 {
 	"_comment": "Config for Mow the Lawn. 'bans' is a list of { 'steamid': 'x', 'reason': 'x', 'type': 'perma/soft' }.",
 	"bans": [
+		{
+			"steamid": "76561198195218798",
+			"reason": "cheating",
+			"type": "soft"
+		},
+		{
+			"steamid": "76561199860928115",
+			"reason": "cheating",
+			"type": "soft"
+		},
+		{
+			"steamid": "76561198193493894",
+			"reason": "cheating",
+			"type": "soft"
+		},
+		{
+			"steamid": "76561198020245526",
+			"reason": "cheating",
+			"type": "soft"
+		}
 	]
 }
