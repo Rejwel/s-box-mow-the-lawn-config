@@ -1,5 +1,5 @@
 {
 	"_comment": "Config for Mow the Lawn. 'bans' is a list of { 'steamid': 'x', 'reason': 'x', 'type': 'perma/soft' }.",
-	"current_game_version": "1.0.6",
-	"bans": []
+	"bans": [
+	]
 }
