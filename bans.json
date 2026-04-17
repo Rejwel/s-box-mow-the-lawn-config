@@ -20,6 +20,16 @@
 			"steamid": "76561198020245526",
 			"reason": "cheating",
 			"type": "soft"
+		},
+		{
+			"steamid": "76561198203783419",
+			"reason": "cheating",
+			"type": "soft"
+		},
+		{
+			"steamid": "76561198303160790",
+			"reason": "griefing spawn, cheating",
+			"type": "perma"
 		}
 	]
 }
