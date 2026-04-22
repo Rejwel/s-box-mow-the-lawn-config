@@ -1,5 +1,5 @@
 {
-	"_comment": "Config for Mow the Lawn. 'bans' is a list of { 'steamid': 'x', 'reason': 'x', 'type': 'perma/soft' }.",
+	"_comment": "Config for Mow the Lawn. 'bans' is a list of { 'steamid': 'x', 'reason': 'x', 'type': 'perma/soft/chat' }.",
 	"bans": [
 		{
 			"steamid": "76561198195218798",
