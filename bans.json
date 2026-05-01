@@ -75,6 +75,11 @@
 			"steamid": "76561199077943369",
 			"reason": "griefing",
 			"type": "perma"
+		},
+		{
+			"steamid": "76561198128754675",
+			"reason": "chat abuse",
+			"type": "chat, gore sites"
 		}
 	]
 }
