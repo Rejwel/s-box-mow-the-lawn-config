@@ -80,6 +80,11 @@
 			"steamid": "76561198128754675",
 			"reason": "chat abuse",
 			"type": "chat, gore sites"
+		},
+		{
+			"steamid": "76561198000240541",
+			"reason": "cheating",
+			"type": "soft"
 		}
 	]
 }
