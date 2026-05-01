@@ -95,6 +95,11 @@
 			"steamid": "76561198707518353",
 			"reason": "cheating",
 			"type": "soft"
+		},
+		{
+			"steamid": "76561198339893993",
+			"reason": "cheating",
+			"type": "perma"
 		}
 	]
 }
