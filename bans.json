@@ -130,6 +130,16 @@
 			"steamid" : "76561198094068872",
 			"reason": "grief",
 			"type": "perma"
+		},
+		{
+			"steamid" : "76561198360929815",
+			"reason": "grief",
+			"type": "perma"
+		},
+		{
+			"steamid" : "76561198065737198",
+			"reason": "grief",
+			"type": "perma"
 		}
 	]
 }
