@@ -125,6 +125,11 @@
 			"steamid" : "76561198764760213",
 			"reason": "exploiting / cheating",
 			"type": "perma"
+		},
+		{
+			"steamid" : "76561198094068872",
+			"reason": "grief",
+			"type": "perma"
 		}
 	]
 }
