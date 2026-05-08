@@ -160,6 +160,11 @@
 			"steamid" : "76561198039768949",
 			"reason": "cheating",
 			"type": "perma"
+		},
+		{
+			"steamid": "76561198073080546",
+			"reason": "chest exploiting",
+			"type": "soft"
 		}
 	]
 }
