@@ -145,6 +145,21 @@
 			"steamid" : "76561198073290184",
 			"reason": "exploiting / cheating",
 			"type": "perma"
+		},
+		{
+			"steamid" : "76561198706117571",
+			"reason": "exploiting / cheating",
+			"type": "perma"
+		},
+		{
+			"steamid" : "76561198113359013",
+			"reason": "abusing",
+			"type": "perma"
+		},
+		{
+			"steamid" : "76561198039768949",
+			"reason": "cheating",
+			"type": "perma"
 		}
 	]
 }
