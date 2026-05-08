@@ -165,6 +165,16 @@
 			"steamid": "76561198073080546",
 			"reason": "chest exploiting",
 			"type": "soft"
+		},
+		{
+			"steamid": "76561199171545103",
+			"reason": "pets",
+			"type": "soft"
+		},
+		{
+			"steamid": "76561198014427028",
+			"reason": "pets",
+			"type": "soft"
 		}
 	]
 }
