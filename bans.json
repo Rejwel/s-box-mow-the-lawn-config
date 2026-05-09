@@ -175,6 +175,11 @@
 			"steamid": "76561198014427028",
 			"reason": "pets",
 			"type": "soft"
+		},
+		{
+			"steamid": "76561198836391959",
+			"reason": "cheating",
+			"type": "perma"
 		}
 	]
 }
