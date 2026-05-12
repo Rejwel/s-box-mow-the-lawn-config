@@ -185,6 +185,11 @@
 			"steamid": "76561199838744708",
 			"reason": "cheating",
 			"type": "perma"
+		},
+		{
+			"steamid": "76561198864864221",
+			"reason": "griefing",
+			"type": "perma"
 		}
 	]
 }
