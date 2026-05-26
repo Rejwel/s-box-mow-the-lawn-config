@@ -195,6 +195,11 @@
 			"steamid": "76561198764348380",
 			"reason": "cheating",
 			"type": "perma"
+		},
+        {
+			"steamid": "76561197995006753",
+			"reason": "bullying and harassment",
+			"type": "chat"
 		}
 	]
 }
