@@ -235,6 +235,11 @@
 			"steamid": "76561198695785404",
 			"reason": "cheating",
 			"type": "perma"
+		},
+		{
+			"steamid": "76561198748080666",
+			"reason": "macroing",
+			"type": "perma"
 		}
 	]
 }
