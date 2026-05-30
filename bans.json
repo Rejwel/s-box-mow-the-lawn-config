@@ -240,6 +240,11 @@
 			"steamid": "76561198748080666",
 			"reason": "macroing",
 			"type": "perma"
+		},
+		{
+			"steamid": "76561198751051836",
+			"reason": "macroing",
+			"type": "perma"
 		}
 	]
 }
